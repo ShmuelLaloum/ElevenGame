@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class Card : MonoBehaviour
 {
-    public string cardName;  // ùí ä÷ìó (ëîå "Ace of Spades")
-    public int value;        // òøê ä÷ìó (ëîå 1 ì-Ace, 11 ì-Jack)
-    public string suit;      // äñåâ ùì ä÷ìó (ëîå "Hearts", "Diamonds")
-    public string name;
+    public string cardName;  // Ã¹Ã­ Ã¤Ã·Ã¬Ã³ (Ã«Ã®Ã¥ "Ace of Spades")
+    public int value;        // Ã²Ã¸Ãª Ã¤Ã·Ã¬Ã³ (Ã«Ã®Ã¥ 1 Ã¬-Ace, 11 Ã¬-Jack)
+    public string suit;      // Ã¤Ã±Ã¥Ã¢ Ã¹Ã¬ Ã¤Ã·Ã¬Ã³ (Ã«Ã®Ã¥ "Hearts", "Diamonds")
+
 
 }
 
